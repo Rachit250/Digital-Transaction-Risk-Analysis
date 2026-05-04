@@ -5,11 +5,9 @@ Project
 ---
 🚀 Launch & Run (No Installation Required)
 ▶️ Run the Full Project (All Notebooks)
-![Launch Binder](https://mybinder.org/badge_logo.svg)
-  
-![Open in JupyterLab](https://img.shields.io/badge/Open%20in-JupyterLab-orange?logo=jupyter)
-> ⏳ Binder may take 1–2 minutes to build the environment on first launch. Click the badge above and wait for it to load — no sign-in required.
----
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rachit250/Digital-Transaction-Risk-Analysis/main?urlpath=lab/tree/Unit1_Data_Cleaning.ipynb)
+[![Open in JupyterLab](https://img.shields.io/badge/Open%20in-JupyterLab-orange?logo=jupyter)](https://mybinder.org/v2/gh/Rachit250/Digital-Transaction-Risk-Analysis/main?urlpath=lab) 
+
 📒 Open Individual Notebooks in Google Colab
 #	Unit	Topic	Launch
 1	Unit 1	Data Cleaning	![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
